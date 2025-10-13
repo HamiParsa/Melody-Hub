@@ -107,9 +107,5 @@ Users can browse artists, explore genres, and dive into the rhythm of music with
 ---
 
 <div align="center">
-  <a href="https://your-demo-link.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit_MelodyHub-8b5cf6?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-  <br/><br/>
   <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,framer" />
 </div>
