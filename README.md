@@ -103,7 +103,7 @@ Users can browse artists, explore genres, and dive into the rhythm of music with
 
 ## 🧑‍💻 Author
 
-**Developed by:** [Your Name](https://github.com/yourgithub)  
+**Developed by:** [HamiParsa](https://github.com/HamiParsa)  
 💬 Passionate Front-End Developer | Building creative web experiences  
 
 ---
