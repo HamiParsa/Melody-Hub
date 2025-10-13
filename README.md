@@ -80,14 +80,12 @@ Users can browse artists, explore genres, and dive into the rhythm of music with
   <img src="/pic1.png" width="700px" />
   <br/><br/>
   <img src="/pic2.png" width="700px" />
-  <br/><br/>
-  <img src="/pic3.png" width="700px" />
 </div>
 <hr/>
 <div align="center">
-  <img src="/pic4.png" width="700px" />
+  <img src="/pic3.png" width="700px" />
   <br/><br/>
-  <img src="/pic5.png" width="400px" />
+  <img src="/pic4.png" width="400px" />
 </div>
 
 ---
