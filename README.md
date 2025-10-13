@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🎧 MelodyHub</h1>
   <p>Experience the rhythm of the world in one elegant platform.</p>
-  <a href="https://your-demo-link.vercel.app/">
+  <a href="https://hamiparsa.github.io/Melody-Hub/">
     <img src="https://img.shields.io/badge/View_Live_Project-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
@@ -77,17 +77,17 @@ Users can browse artists, explore genres, and dive into the rhythm of music with
 <h3 align="center">✨ Screenshots ✨</h3>
 
 <div align="center">
-  <img src="/public/screens/home.png" width="700px" />
+  <img src="/pic1.png" width="700px" />
   <br/><br/>
-  <img src="/public/screens/artists.png" width="700px" />
+  <img src="/pic2.png" width="700px" />
   <br/><br/>
-  <img src="/public/screens/genres.png" width="700px" />
+  <img src="/pic3.png" width="700px" />
 </div>
 <hr/>
 <div align="center">
-  <img src="/public/screens/about.png" width="700px" />
+  <img src="/pic4.png" width="700px" />
   <br/><br/>
-  <img src="/public/screens/mobile.png" width="400px" />
+  <img src="/pic5.png" width="400px" />
 </div>
 
 ---
