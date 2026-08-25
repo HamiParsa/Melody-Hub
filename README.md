@@ -11,6 +11,7 @@
 
 
 
+
 <div align="center">
   <h1>🎧 MelodyHub</h1>
   <p>Experience the rhythm of the world in one elegant platform.</p>
